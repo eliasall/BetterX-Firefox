@@ -1,0 +1,13 @@
+{
+  "title": "BetterX Web Metrics Logger for Android",
+  "name": "webmetricslogger",
+  "version": "0.0.6a",
+  "description": "Logs anonymous web usage statistics",
+  "main": "index.js",
+  "author": "BetterX",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
