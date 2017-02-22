@@ -1,0 +1,12 @@
+{
+  "title": "AutoScroll",
+  "name": "autoscroll",
+  "version": "0.0.1",
+  "description": "Automatic scrolling of web pages using device orientation.",
+  "main": "index.js",
+  "author": "",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}

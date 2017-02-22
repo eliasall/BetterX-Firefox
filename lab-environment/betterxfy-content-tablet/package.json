@@ -1,0 +1,12 @@
+{
+  "title": "BetterX_amazon",
+  "name": "BetterX_amazon",
+  "version": "1",
+  "description": "Hacks on Amazon.co.uk",
+  "main": "index.js",
+  "author": "",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
