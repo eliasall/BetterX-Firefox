@@ -17,6 +17,21 @@ Contains addons that were used for a user web experience lab study of the [Bette
 * AutoScroller _Automatic scrolling of web pages using device orientation_
 * BetterXfy* _CSS Injection and different hacks on amazon.co.uk_
 
+### Referencing
+Usage of any parts of this software or data requires referencing in any published or publicised work. The correct referencing is presented below in Harvard, MLA8 and APA styles.
+ 
+Harvard
+
+`Allayiotis, E. (2017) BetterX System. N.A: BetterX.org.`
+ 
+MLA8
+
+`Allayiotis, Elias. “BetterX System.” 23 Feb. 2017, www.betterx.org.`
+ 
+APA
+
+`Allayiotis, E. (2017). BetterX System (Version 1.2). [Application software]. Retrieved from <http://www.betterx.org/>`
+
 ### License
 Anyone interested in this project can download/modify/contribute to the source code that is made available.   The BetterX project is licenced under the Apache License, Version 2.0
 
